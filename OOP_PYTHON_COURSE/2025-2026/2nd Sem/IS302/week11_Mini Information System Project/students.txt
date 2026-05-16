@@ -1,2 +1,0 @@
-2023-001,Maria,BSIS
-2023-002,John,BSCS
